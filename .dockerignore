@@ -1,0 +1,9 @@
+__pycache__/
+*/__pycache__/
+.env
+.gitignore
+.git/
+.k8s/
+aiotractive/
+readme.md
+build/
